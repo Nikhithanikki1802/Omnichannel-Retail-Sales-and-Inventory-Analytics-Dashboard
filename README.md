@@ -209,7 +209,7 @@ This project is intentionally structured as a scalable analytics solution, where
 
 ```bash
 Omnichannel-Retail-Sales-and-Inventory-Analytics-Dashboard/
-│
+│── README.md
 ├── data/
 │   ├── raw/
 │   │   └── train.csv
@@ -231,7 +231,7 @@ Omnichannel-Retail-Sales-and-Inventory-Analytics-Dashboard/
 ├── reports/
 │   └── final_project_report.pdf
 │
-└── README.md
+
 ```
 
 ---
